@@ -2,6 +2,12 @@
 <h3 align="center">Full Stack MERN Developer | Crafting Scalable & Modern Web Applications</h3>
 
 <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+%26+Node.js+Developer;Building+Modern+Web+Applications;Open+to+Collaboration" alt="Typing animation: Full Stack MERN Developer, React and Node.js Developer, Building Modern Web Applications, Open to Collaboration" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://ritikvarun.me"><img src="https://img.shields.io/badge/Portfolio-ritikvarun.me-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:ritikvarun64@gmail.com"><img src="https://img.shields.io/badge/Email-ritikvarun64%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/ritikvarun"><img src="https://img.shields.io/badge/GitHub-ritikvarun-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -49,11 +55,23 @@
 
 ### 💻 Featured Projects
 
-| Project | Description | Tech Stack | Live Demo |
-| :--- | :--- | :--- | :---: |
-| **🏋️ Gym Management Website** | Production-ready website built for a freelance client featuring custom admin dashboard, REST APIs, Cloudinary integration, and Resend email notifications. | `React` `Node.js` `Express` `MongoDB` | [🌐 Live Link](https://www.musclecraftfitnessgym.in/) |
-| **🛒 E-commerce Application** | Full-stack e-commerce app with product listings, cart, and **AI-based voice navigation** for voice command browsing. | `React` `Node.js` `Express` `AI Navigation` | [🌐 Live Link](https://shopx-6u3e.onrender.com/) |
-| **💼 LinkedIn Clone** | LinkedIn-inspired platform with authentication, user profiles, post sharing, image upload, and REST API integration. | `React` `Node.js` `Express` `MongoDB` `JWT` | [🌐 Live Link](https://linkend-in-clone.vercel.app/) |
+| Repository | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**gym-website**](https://github.com/ritikvarun/gym-website) | Gym management platform with user-focused UI and backend integrations for a production-style workflow. | React, Node.js, Express, MongoDB |
+| [**E-kart**](https://github.com/ritikvarun/E-kart) | MERN e-commerce application with product browsing, cart flow, and modern storefront features. | React, Node.js, Express, MongoDB |
+| [**linkendIn-clone**](https://github.com/ritikvarun/linkendIn-clone) | LinkedIn-inspired social platform with authentication, feed interactions, and profile management. | React, Node.js, Express, MongoDB, JWT |
+| [**My_portfolio**](https://github.com/ritikvarun/My_portfolio) | Personal portfolio source code showcasing projects, skills, and developer journey. | React, Tailwind CSS, JavaScript |
+| [**FreshMartApp**](https://github.com/ritikvarun/FreshMartApp) | Fresh grocery/e-commerce style web app focused on responsive UX and clean component structure. | React, JavaScript, CSS |
+| [**neetcode-submissions**](https://github.com/ritikvarun/neetcode-submissions) | Structured DSA practice repository with problem-solving submissions and consistent coding patterns. | JavaScript, Data Structures & Algorithms |
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ritikvarun/ritikvarun/output/github-contribution-grid-snake.svg" alt="Animated snake showing Ritik Varun's GitHub contribution graph" />
+</p>
+<p align="center"><sub>If this animation is not visible yet, it will appear after the <code>Generate Snake</code> workflow runs.</sub></p>
 
 ---
 
