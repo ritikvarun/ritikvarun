@@ -101,13 +101,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/repos/ritikvarun?style=for-the-badge&color=00f2fe&label=Public%20Repositories" alt="Public repositories count for Ritik Varun" />
-  <img src="https://img.shields.io/github/followers/ritikvarun?style=for-the-badge&color=00f2fe&label=Followers" alt="GitHub followers for Ritik Varun" />
-  <img src="https://komarev.com/ghpvc/?username=ritikvarun&style=for-the-badge&color=00f2fe&label=Profile%20Views" alt="Profile views counter for Ritik Varun" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ritikvarun&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Ritik's GitHub Stats including total commit/contribution metrics from GitHub Readme Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikvarun&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
